@@ -24,4 +24,4 @@ There are some repositories that aim to compile a list of malicious browser exte
 If we take a snapshot of every extension on the Chrome/Edge store, then we would know what extensions are allowed on the store. We could then compare that list to a list of extensions installed in the workplace environment and might discover users with extensions no longer on the broswer store. 
 
 ## The Tools
-## `scrape-chromeWebstore.py`
+### `scrape-chromeWebstore.py`
