@@ -13,4 +13,4 @@ You can view the CSV data zipped in directory [/extension data/](https://github.
 
 Malicious browser extensions typically steal user data or visit advertisment related links in the background. 
 
-I like this article from brave.com about malicious broswer extensions - [brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions](https://brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions)
+I suggest reading this article from brave.com about malicious broswer extensions - [brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions](https://brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions)
