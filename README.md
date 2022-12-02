@@ -13,7 +13,7 @@ You can view the CSV data zipped in directory [/extension data/](https://github.
 
 Malicious browser extensions typically steal user data or visit advertisment related links in the background. 
 
-I suggest reading this article from brave.com about malicious broswer extensions - [brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions](https://brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions)
+  - I suggest reading this article from brave.com about malicious broswer extensions - [brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions](https://brave.com/learn/browser-extension-safety/#is-it-safe-to-use-browser-extensions)
 
 By the time security news outlets have reported on these malicious extensions, the extensions have already been removed from the extension store. However the extension is not removed from the end user's browser until the user uninstalls it (that's if they ever do).
 
