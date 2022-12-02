@@ -32,7 +32,7 @@ def main():
 
     print(f"--- {time.time() - start_time} seconds ---")
     
-    out_csv_file(res, 'edge_extensions.csv')
+    out_csv_file(res)
 
 def work_job(category):
     """multiprocess job to query and extract edge extensions
@@ -107,7 +107,7 @@ def get_edge_query(edge_query_url):
     
     return extensions_json
 
-def out_csv_file(data, outfilename):
+def out_csv_file(data):
     """save Chrome extensions to csv file.
 
     Parameters:
@@ -118,10 +118,7 @@ def out_csv_file(data, outfilename):
         user supplied file name
     """
     
-    if outfilename:
-        file_name = outfilename
-    else:
-        file_name = f"chrome_webstore_extensions_{datetime.now().strftime('%Y-%m-%d')}.csv"
+    file_name = f"edge_extensions_{datetime.now().strftime('%Y-%m-%d')}.csv"
 
     field_names = ['id', 'name']
 
