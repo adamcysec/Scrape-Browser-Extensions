@@ -1,6 +1,6 @@
 # Scrape-Browser-Extensions
 
-This repo contains python scrips for scraping all visible extensions browsers Chrome and Edge.
+This repo contains python scrips for scraping all visible browser extension for Chrome and Edge.
 
 The scripts output a CSV file containing the extension id and the extension name with the following fields:
 `id`, `name`
