@@ -23,6 +23,16 @@ There are some repositories that aim to compile a list of malicious browser exte
 
 If we take a snapshot of every extension on the Chrome/Edge store, then we would know what extensions are allowed on the store. We could then compare that list to a list of extensions installed in the workplace environment and might discover users with extensions no longer on the broswer store. 
 
+There are several reasons an extension is removed from the store:
+
+  1. Extensions that come [preinstalled](https://www.jamieweb.net/info/chrome-extension-ids/) in broswers were removed from the store.
+  2. The developer decided to remove their extension from the store.
+  3. Chrome/Edge removed the extension from their store (probably for good reasons).
+
+## visible browser extension?
+
+
+
 ## The Tools
 
 ### `scrape-chromeWebstore.py`
