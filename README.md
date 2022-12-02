@@ -29,5 +29,13 @@ If we take a snapshot of every extension on the Chrome/Edge store, then we would
 
 This script scrapes extension data by enumerating the Chrome [sitemaps](https://chrome.google.com/webstore/sitemap).
 
-#### sdf
+**Dependencies**
+- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+  - `pip install beautifulsoup4`
+- [lxml](https://pypi.org/project/lxml/)
+  - `pip install lxml`
+
+**Example**
+`py scrape_chromeWebstore.py`
+- the CSV is saved in the current working directory
 
