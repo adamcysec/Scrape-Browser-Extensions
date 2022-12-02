@@ -36,17 +36,33 @@ This script scrapes extension data by enumerating the Chrome [sitemaps](https://
   - `pip install lxml`
 
 **Example**
+
 `py scrape_chromeWebstore.py`
 
 - the CSV is saved in the current working directory
+
+**Output**
+
+```
+starting work on 16 cores
+--- 17.575310230255127 seconds ---
+file saved: edge_extensions.csv
+```
 
 ### `scrape-EdgeAddons.py`
 
 This script scrapes extension data by enumerating the page numbers for each category in Microsoft's store [api](https://microsoftedge.microsoft.com/addons/getfilteredextensions/Productivity?noItems=24&pgNo=1&IncludeExtensionDetailsFields=true).
 
 **Example**
+
 `py scrape_EdgeAddons.py`
 
 - the CSV is saved in the current working directory
 
+**Output**
 
+```
+starting work on 16 cores
+--- 17.575310230255127 seconds ---
+file saved: edge_extensions.csv
+```
