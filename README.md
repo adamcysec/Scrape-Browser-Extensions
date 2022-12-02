@@ -17,7 +17,7 @@ Malicious browser extensions typically steal user data or visit advertisment rel
 
 By the time security news outlets have reported on these malicious extensions, the extensions have already been removed from the extension store. However the extension is not removed from the end user's browser until the user uninstalls it (that's if they ever do).
 
-There are some repositories that aim to compile a list of malicious browser extension ids in order to scan for malicious extensions in a workplace environment. However, the work compiling the list is very manual and time consuming.
+There are some repositories that aim to compile a list of malicious browser extension ids in order to scan for malicious extensions in a workplace environment. However, the work compiling the list is very manual and invovles googling/tracking news articles.
 
 ### My idea - scrape extenions
 
