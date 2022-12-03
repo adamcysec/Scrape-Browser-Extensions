@@ -57,8 +57,8 @@ This script scrapes extension data by enumerating the Chrome [sitemaps](https://
 
 ```
 starting work on 16 cores
---- 17.575310230255127 seconds ---
-file saved: edge_extensions.csv
+--- 340.9100058078766 seconds ---
+file saved: chrome_webstore_extensions_2022-12-02.csv
 ```
 
 ### `scrape-EdgeAddons.py`
