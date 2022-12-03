@@ -29,7 +29,9 @@ There are several reasons an extension is removed from the store:
   2. The developer decided to remove their extension from the store.
   3. Chrome/Edge removed the extension from their store (probably for good reasons).
 
-## visible browser extension?
+## Visible browser extensions?
+
+I say visible, because it's possible for a developer "private" list their extension. For example, extension SavingsScout is not [searchable](https://chrome.google.com/webstore/search/savingsscout) on the Chrome webstore, but can be viewed if you know the [url](https://chrome.google.com/webstore/detail/savingsscout/ipapbnjifmmdopiipnckioandaniimbf).
 
 
 
