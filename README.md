@@ -31,7 +31,7 @@ There are several reasons an extension is removed from the store:
 
 ## Visible browser extensions?
 
-I say visible, because it's possible for a developer "private" list their extension. For example, extension SavingsScout is not [searchable](https://chrome.google.com/webstore/search/savingsscout) on the Chrome webstore, but can be viewed if you know the [url](https://chrome.google.com/webstore/detail/savingsscout/ipapbnjifmmdopiipnckioandaniimbf).
+I say visible, because it's possible for a developer to "private" list their extension. For example, extension SavingsScout is not [searchable](https://chrome.google.com/webstore/search/savingsscout) on the Chrome webstore, but can be viewed if you know the [url](https://chrome.google.com/webstore/detail/savingsscout/ipapbnjifmmdopiipnckioandaniimbf).
 
 
 
