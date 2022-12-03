@@ -61,6 +61,8 @@ starting work on 16 cores
 file saved: chrome_webstore_extensions_2022-12-02.csv
 ```
 
+-----
+
 ### `scrape-EdgeAddons.py`
 
 This script scrapes extension data by enumerating the page numbers for each category in Microsoft's store [api](https://microsoftedge.microsoft.com/addons/getfilteredextensions/Productivity?noItems=24&pgNo=1&IncludeExtensionDetailsFields=true).
