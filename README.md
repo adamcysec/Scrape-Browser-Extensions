@@ -37,7 +37,7 @@ I say visible, because it's possible for a developer to "private" list their ext
 
 ## The Tools
 
-### `scrape-chromeWebstore.py`
+### scrape-chromeWebstore.py
 
 This script scrapes extension data by enumerating the Chrome [sitemaps](https://chrome.google.com/webstore/sitemap).
 
@@ -69,7 +69,7 @@ This script scrapes extension data by enumerating the page numbers for each cate
 
 **Example**
 
-py scrape_EdgeAddons.py
+`py scrape_EdgeAddons.py`
 
 - the CSV is saved in the current working directory
 
